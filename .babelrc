@@ -1,0 +1,6 @@
+// Config file to instruct babel to use the presets:
+
+// Presets key -
+{
+  "presets": ["react", "es2015"]
+}
